@@ -5,3 +5,4 @@ Add line again
 three modify ad
 four add --ok ==oop
 there is featural and edited
+new add
